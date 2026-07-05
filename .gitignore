@@ -1,0 +1,5 @@
+backend/admin/assets/inc/config.php
+backend/doc/assets/inc/config.php
+vendor/
+*.log
+backend/doc/assets/images/users/WhatsApp*.jpeg
