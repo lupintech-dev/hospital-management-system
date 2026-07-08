@@ -2,6 +2,9 @@
 
 A comprehensive PHP-based Hospital Management Information System supporting two roles: Admin and Doctor, covering the full operational workflow of a hospital.
 
+## Live Demo
+hospitalmanagement.xo.je
+
 ## Features
 
 ### Admin Portal
@@ -37,6 +40,16 @@ A comprehensive PHP-based Hospital Management Information System supporting two 
 ## Security Notes
 - Database credentials are excluded from version control via .gitignore
 - Login authentication required for both Admin and Doctor portals
+
+## Screenshots
+
+Login Page
+
+![Login Page](assets/images/screenshot-login.png)
+
+Admin Dashboard
+
+![Admin Dashboard](assets/images/screenshot-admin.png)
 
 ## Setup Locally
 1. Clone this repo
