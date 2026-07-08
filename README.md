@@ -3,7 +3,7 @@
 A comprehensive PHP-based Hospital Management Information System supporting two roles: Admin and Doctor, covering the full operational workflow of a hospital.
 
 ## Live Demo
-hospitalmanagement.xo.je
+[hospitalmanagement.xo.je](https://hospitalmanagement.xo.je)
 
 ## Features
 
